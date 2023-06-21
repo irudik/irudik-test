@@ -87,7 +87,7 @@ Lade, G. and I. Rudik. 2020.
 
 <br>
 
-**[Optimal climate policy when damages are unknown](https://www.aeaweb.org/articles?id=10.1257/pol.20160541)** 
+**[Optimal climate policy when damages are unknown](https://www.aeaweb.org/articles?id=10.1257/pol.20160541)**  
 Rudik, I. 2020.  
 **American Economic Journal: Economic Policy.**  
 [[ungated version](https://osf.io/preprints/socarxiv/nc43k)] [[code](https://github.com/irudik/optimal-climate-policy-aej)]
